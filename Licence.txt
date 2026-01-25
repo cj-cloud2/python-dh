@@ -1,0 +1,38 @@
+Custom Strict Source Code License v1.0
+1. Definitions
+
+"Software" means the source code, documentation, and any other files contained in the associated repository.
+
+"Licensor" is the copyright holder or entity authorizing use under this license (You).
+
+"User" or "You" means any individual or entity exercising any permission granted by this license.
+
+2. Grant of License
+Subject to the strict terms and conditions of this license, the Licensor hereby grants You a worldwide, royalty-free, non-exclusive, non-sublicensable, and non-transferable license to:
+
+View and fork the Software for the sole purpose of private study, review, and inspection.
+
+Contribute to the Software via the forking and pull request model of the hosting platform (e.g., GitHub), where all contributions become the property of the Licensor.
+
+3. Strict Prohibitions
+This license explicitly PROHIBITS, without prior written consent from the Licensor, any use of the Software including but not limited to:
+
+Publication: You may not reproduce, print, publish, or include the Software, in whole or in part, in any book, magazine, journal, textbook, or other printed or digital publication.
+
+Educational Use: You may not use the Software, in whole or in part, as an example, exercise, solution, or resource in any free or commercial educational, instructional, or training materials, courses, seminars, or workshops.
+
+Commercial Exploitation: You may not incorporate the Software into any commercial product or service. You may not sell, rent, lease, or otherwise commercially exploit the Software.
+
+Redistribution: You may not copy, reproduce, redistribute, or publicly display the Software outside of the viewing/forking mechanism of the original hosting repository.
+
+Derivative Works: You may not create derivative works based upon the Software, except for the temporary modifications necessary to submit a contribution back to the original repository.
+
+4. Copyright Notice
+Any permitted use must retain, without modification, all copyright, patent, trademark, and attribution notices that are present in the Software.
+
+5. Disclaimer of Warranty
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE LICENSORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES, OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
+
+6. Termination
+Any breach of this license's terms automatically and immediately terminates your rights under this license. Upon termination, you must destroy all copies of the Software in your possession.
+
