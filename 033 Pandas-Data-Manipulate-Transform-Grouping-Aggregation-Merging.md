@@ -261,6 +261,8 @@ print(pivot)
 # Let's split our dataset into two parts to simulate this
 part1 = df_sales.iloc[0:2] # First 2 rows
 part2 = df_sales.iloc[5:7] # Rows 5 and 6
+print(part1)
+print(part2)
 
 # Glue them back together vertically
 combined_df = pd.concat([part1, part2])
